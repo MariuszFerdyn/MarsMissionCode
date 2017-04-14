@@ -1,5 +1,6 @@
 # MarsMissionCode
-Mars Mission Source Code  - based on https://github.com/Mission-Mars-Fourth-Horizon-Org/Mission-Briefings/tree/master/IoTHubs
+Mars Mission Source Code (Establish a Connection)
+            based on https://github.com/Mission-Mars-Fourth-Horizon-Org/Mission-Briefings/tree/master/IoTHubs
 
 
 IoTHubGetStarted based on "Get started with Azure IoT Hub for .NET" - https://aka.ms/mars-iot-cs-01
