@@ -1,0 +1,1 @@
+C:\code\IoTHubGetStarted_2b_monitoring\Monitoring\obj\Debug\Monitoring.csprojResolveAssemblyReference.cache
